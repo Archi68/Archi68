@@ -1,5 +1,7 @@
-### Hi there I'm Artur Kim👋
-
+## Hi there, I'm [Artur Kim](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Team player with a great desire to start career in the field of Artificial Intelligence as Data or Machine Learning Engineer
+### 🔭 I’m currently working on ...
+### 📫 How to reach me: www.linkedin.com/in/artur-kim-48a77112
 <!--
 **Archi68/Archi68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

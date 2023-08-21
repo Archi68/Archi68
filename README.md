@@ -1,4 +1,4 @@
-## Hi there, I'm [Artur Kim](www.linkedin.com/in/artur-kim-48a77112) 
+## Hi there, I'm [Artur Kim](https://www.linkedin.com/in/artur-kim-48a77112) 
 ### A team player with a great desire to start career in the field of Artificial Intelligence as Data or Machine Learning Engineer
 
 

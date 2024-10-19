@@ -4,11 +4,10 @@
 
 
 ## About me
-I am a reliable, knowledgeable, and well-organized team player with a great desire to start my career in the field of Artificial Intelligence. 
-As a Junior Data Engineer, I am constantly developing and learning, not afraid of difficult tasks and open to challenges. 
-Almost every day I improve my knowledge in ML, DL, Python, SQL and work on improving my English.
+Motivated AI enthusiast with a strong focus on Machine Learning and MLOps. While my practical experience is still growing, I am committed to continuously improving my skills in Python, SQL, and deploying ML models in production. I thrive in collaborative environments and embrace challenges that allow me to apply my knowledge to real-world projects.
 
-Please see my research studies bellow pinned up to easy access to them. There are hand-on-projects showing  my hard skills.
+Explore my projects below to see how I leverage my expertise in MLOps and machine learning to solve practical problems.
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=500&color=A3A0A0&multiline=true&width=435&lines=Thank+you+for+the+time+to+learn+more+about+me)](https://git.io/typing-svg)

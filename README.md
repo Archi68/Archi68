@@ -1,5 +1,6 @@
 ## Hi there, I'm [Artur Kim](https://www.linkedin.com/in/artur-kim-48a77112) 
-### A team player with a great desire to start career in the field of Artificial Intelligence as Data or Machine Learning Engineer
+### Motivated and ambitious AI enthusiast with a strong theoretical foundation in data engineering and machine learning. While my practical experience is still growing, I am eager to apply my knowledge in real-world scenarios and continuously improve my skills. I am confident in my ability to quickly learn and adapt, and I thrive in collaborative environments where I can contribute to innovative AI solutions. My goal is to build a solid career as a Data or Machine Learning Engineer by consistently expanding my expertise and gaining hands-on experience.
+
 
 
 ## About me

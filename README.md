@@ -15,6 +15,8 @@ I focus on Machine Learning and MLOps, with experience in both binary and multil
 Check out my projects below to see how I use machine learning and MLOps to tackle industry challenges.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=500&color=A3A0A0&multiline=true&width=435&lines=Thank+you+for+the+time+you+spent+to+learn+more+about+me)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=500&color=A3A0A0&multiline=true&width=435&lines=Thank+you+for+taking+the+time+to+learn+about+me)](https://git.io/typing-svg)
+
 ### 📫 How to reach me: kim.artur@gmail.com
 ![](https://komarev.com/ghpvc/?username=Archi68)
